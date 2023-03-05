@@ -432,7 +432,7 @@ const (
 	MIMETextPlain       = "text/plain"
 	MIMETextJavaScript  = "text/javascript"
 	MIMEApplicationXML  = "application/xml"
-	MIMEApplicationJSON = "application/json"
+	MIMEApplicationJSON = "application/json; charset=utf-8"
 	// Deprecated: use MIMETextJavaScript instead
 	MIMEApplicationJavaScript = "application/javascript"
 	MIMEApplicationForm       = "application/x-www-form-urlencoded"
